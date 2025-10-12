@@ -14,12 +14,13 @@
 <br/>
 <br/>
 
+<p>Selamat Datang, Pengembara 👋.</p>
 
+<p>Saya Davin Gahisan Mustafid (Davin GM), seorang pengembang independen (independent developer) yang berasal dari Bandung, Indonesia. Perjalanan saya di dunia pengembangan perangkat lunak (software development) dimulai dari ketertarikan pada koding di tahun 2023. Awalnya, saya mendalami peran sebagai Backend Developer saat memasuki jenjang Sekolah Menengah Kejuruan (SMK), dengan bahasa pemrograman pertama saya adalah PHP.</p>
 
+<p>Namun, minat saya bergeser. Saat ini, saya lebih fokus dan memiliki ketertarikan kuat pada bidang Frontend Developer. Pada tahun 2024, saya mulai mempelajari dasar-dasar JavaScript dan CSS sebagai langkah awal saya dalam pengembangan frontend hingga saat ini. dan jika kamu tertarik untuk Membantu saya dan berkontirbusi saya akan sanggat sanggat berterimakasih</p>
 
-
-<p>Selamat Datang Pengembara </br> Aku Davin Gahisan M Seorang Developer indie saya berasal dari  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2560px-Flag_of_Indonesia.svg.png" width="13"/> <b>indonesia, Bandung</b>
-<h3>Hal-Hal yang saya Pakai dalam Coding</h3>
+<h3>Teknologi dan Alat yang Saya Gunakan</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
