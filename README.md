@@ -6,7 +6,7 @@
 
 - 🔭 𝚂𝚊𝚊𝚝 𝚒𝚗𝚒 𝚜𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚗𝚐𝚎𝚛𝚓𝚊𝚔𝚊𝚗 **Project Laravel 12.**
 - 🌱 𝚂𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚗𝚍𝚊𝚕𝚊𝚖𝚒 **DevOps dan Pemrograman Java yang kompetitif.**
-- 👯 𝙼𝚎𝚗𝚌𝚊𝚛𝚒 𝚔𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚜𝚒 𝚍𝚒 **Deckop app, Ai Enginer, atau Pengembangan Web tingkat Pro.**
+- 👯 𝙼𝚎𝚗𝚌𝚊𝚛𝚒 𝚔𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚜𝚒 𝚍𝚒 **Deckop app, Ai Enginer, atau Pengembangan Web.**
 - 💬 𝚃𝚊𝚗𝚢𝚊𝚔𝚊𝚗 𝚊𝚙𝚊 𝚜𝚊𝚓𝚊 𝚔𝚎𝚙𝚊𝚍𝚊 𝚜𝚊𝚢𝚊 [di sini](https://github.com/DavinGM) ! 𝚂𝚊𝚢𝚊 𝚜𝚎𝚗𝚊𝚗𝚐 𝚖𝚎𝚗𝚋𝚊𝚗𝚝𝚞 anda.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Dia/Laki-laki.**
 - ⚡ 𝙵𝚊𝚔𝚝𝚊 𝚄𝚗𝚒𝚔 : **Bagian terbaik nya atur atur aja dulu*.**
@@ -30,7 +30,7 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-<img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+<img alt="Brave" src="https://img.shields.io/badge/-Brave-F9A03C?style=flat-square&logo=Brave&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -39,10 +39,8 @@
 <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
-<img alt="TablePlus" src="https://img.shields.io/badge/-TablePlus-F68712?style=flat-square&logo=tableplus&logoColor=white" />
+<img alt="Laragon" src="https://img.shields.io/badge/-TablePlus-F68712?style=flat-square&logo=laragon&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <h3>Open source projects</h3>
 <table>
@@ -69,9 +67,9 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-    <li><a href="#"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> Tips Belajar Laravel Cepat</b></a><br/><i>Cara efektif memahami dasar Laravel dan membangun aplikasi dengan cepat.</i></li>
-    <li><a href="#"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> React Dasar Paling Masuk Akal</b></a><br/><i>Panduan singkat dan logis untuk mulai belajar React dari nol.</i></li>
-    <li><a href="#"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> Tailwind Makin Canggih? Tapi Konfigurasinya Bikin Developer Muntah</b></a><br/><i>Simak tips mengatasi konfigurasi Tailwind yang rumit agar tetap produktif.</i></li>
+    <li><a href="https://santrikoding.com/"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> Tempat Belajar Coding andalan Santri</b></a><br/><i>Cara efektif memahami dasar Membangun aplikasi dari 0.</i></li>
+    <li><a href="https://youtu.be/kcnwI_5nKyA?si=f6LejStZBRxl74fH"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> React Dasar Paling Masuk Akal</b></a><br/><i>Panduan singkat dan logis untuk mulai belajar React dari nol.</i></li>
+    <li><a href="https://youtu.be/4B9XYXCBYkA?si=V0-UbRKjqQKd7GmG"><b><img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="20" alt="baru" /> Belajar Cofigurasi Tailwinds terbaru </b></a><br/><i>Simak tips mengatasi konfigurasi Tailwind yang rumit agar tetap produktif.</i></li>
 
 ## Sratistik saya Di github
 
@@ -82,35 +80,10 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 100.2+ MB Terpakai di github
- > 
-> 🏆 1 Kontribusi di tahun 2025
- > 
-> 💼 Siap Menerima Lowongan Kerja
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**Aktivitas saya**
+// EMPTY
 
-```text
-🌞 Pagi      15 commits   ███░░░░░░░░░░░░░░░░░░░░░░   5.00%
-🌆 Siang     35 commits   ██████░░░░░░░░░░░░░░░░░░░   11.67%
-🌃 Sore     100 commits   █████████████░░░░░░░░░░░░   33.33%
-🌙 Malam    150 commits   ████████████████████░░░░░   50.00%
-```
-
-**Project yang sedang berjalan**
-
-```text
-React      12 commits   ████░░░░░░░░░░░░░░░░░░░░░   12%
-Laravel    45 commits   ██████████████████████░░░   45%
-```
 
 # Pahami Saya Lebih Jauh
-
-
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinGM&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
