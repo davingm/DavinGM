@@ -84,4 +84,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavinGM&theme=tokyonight" alt="Streak" />
 </p>
+
+
 ![Snake animation](https://github.com/DavinGM/DavinGM/blob/main/img/github-contribution-grid-snake.svg)
