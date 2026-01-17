@@ -1,26 +1,14 @@
-<img src="img/Banner.1.png" alt="Banner" style="display:block; width:100vw; max-width:100%; margin:0; padding:0; object-fit:cover;"/>
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Senang Berkenalan Denganmu.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to Meet You.</h1>
 
 <img align="right" height="250" width="400" alt="GIF" src="img/giphy.gif"/>
 
-- 🔭 𝚂𝚊𝚊𝚝 𝚒𝚗𝚒 𝚜𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚗𝚐𝚎𝚛𝚓𝚊𝚔𝚊𝚗 **Project React Pixle.**
-- 🌱 𝚂𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚗𝚍𝚊𝚕𝚊𝚖𝚒 **Frontend dan Framwork High-end Lanjutan.**
-- 👯 𝙼𝚎𝚗𝚌𝚊𝚛𝚒 𝚔𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚜𝚒 𝚍𝚒 **Deckop app, Ai Enginer, atau game Developer.**
-- 💬 𝚃𝚊𝚗𝚢𝚊𝚔𝚊𝚗 𝚊𝚙𝚊 𝚜𝚊𝚓𝚊 𝚔𝚎𝚙𝚊𝚍𝚊 𝚜𝚊𝚢𝚊 [di sini](https://github.com/DavinGM) ! 𝚂𝚊𝚢𝚊 𝚜𝚎𝚗𝚊𝚗𝚐 𝚖𝚎𝚗𝚋𝚊𝚗𝚝𝚞 anda.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Dia/Laki-laki.**
-- ⚡ 𝙵𝚊𝚔𝚝𝚊 𝚄𝚗𝚒𝚔 : **Ketaatan sejati tidak butuh negosiasi*.**
-
-<br/>
 <br/>
 
-<p>Selamat Datang,👋.</p>
+<p>Welcome,👋.</p>
 
-<p>Saya Davin Gahisan Mustafid (Davin GM), seorang pengembang independen (independent developer) yang berasal dari Bandung, Indonesia. Perjalanan saya di dunia pengembangan perangkat lunak (software development) dimulai dari ketertarikan pada koding di tahun 2023. Awalnya, saya mendalami peran sebagai Backend Developer saat memasuki jenjang Sekolah Menengah Kejuruan (SMK), dengan bahasa pemrograman Utama saya adalah JavaScript & typeScript.</p>
+<p>I'm Davin Gahisan Mustafid (Davin GM), an independent developer from Bandung, Indonesia. My journey in software development began with an interest in coding in 2023. Initially, I pursued a role as a Backend Developer while attending Vocational High School (SMK), with JavaScript and TypeScript as my primary programming languages.
 
-<p>Saat ini, saya lebih fokus dan memiliki ketertarikan kuat pada bidang Frontend Developer. Pada tahun 2024, saya mulai mempelajari dasar-dasar JavaScript dan CSS sebagai langkah awal saya dalam pengembangan frontend hingga saat ini. dan jika kamu tertarik untuk berkoraborasi saya akan sanggat senang </p>
-
-<h3>Teknologi dan Alat yang Saya Gunakan</h3>
+  <h3>Technology and Tools I Use</h3>
 <p>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
@@ -51,16 +39,10 @@
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><h3>Open source projects</h3>
 
 
-## Sratistik saya Di github
-<!--START_SECTION:waka-->
-![waktu Coding](http://img.shields.io/badge/Code%20Time-3%2C434%20hrs%2020%20mins-blue)
+## My Site For you Explore
 
+- Portofolio : [davingm.com](https://davingm.com)
 
-# Pahami Saya Lebih Jauh
+# Understand Me Better
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinGM&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
-<img src="https://github-readme-stats.vercel.app/api?username=DavinGM&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
-
-
-
-![Snake animation](https://github.com/DavinGM/DavinGM/blob/main/img/github-contribution-grid-snake.svg)
+<im
