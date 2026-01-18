@@ -43,9 +43,7 @@
 ## My Site For you Explore
 
 - Portofolio : [davingm.com](https://davingm.com)
-- Studio : [studio.davingm.com](https://studio.davingm.com)
 - React Pixel : [react.davingm.com](https://react.davingm.com)
-- Vue Pixel : [vue.davingm.com](https://vue.davingm.com)
 
 # Understand Me Better
 
