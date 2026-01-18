@@ -2,8 +2,6 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="img/giphy.gif"/>
 
-<br/>
-
 # <p>Welcome,👋 to profile.</p>
 
 <p>I'm Davin Gahisan Mustafid (Davin GM), an independent developer from Bandung, Indonesia. I specialize in front-end engineering and stay up-to-date on modern technologies in the Vue.js ecosystem. Let's collaborate on crazy ideas with me here.
