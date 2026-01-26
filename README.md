@@ -32,16 +32,18 @@
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
 <img alt="Laragon" src="https://img.shields.io/badge/-TablePlus-F68712?style=flat-square&logo=laragon&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><h3>Open source projects</h3>
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><h3>Contact Me For Collabs</h3>
 
 
 
 
 [![Mail Badge](https://img.shields.io/badge/-davin.gm.etc@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:davin.gm.etc@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@xiao4_72__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/xiao4_72_) 
-[![Linkedin Badge](https://img.shields.io/badge/-davin-gahisan-016b77390/-0284c?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davin-gahisan-016b77390/) 
-[![](https://komarev.com/ghpvc/?username=DavinGM&color=blue&label=Profile%20Views)](https://github.com/DavinGM/DavinGM)
-[![](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/DavinGM)
+[![Instagram Badge](https://img.shields.io/badge/-@xiao4_72__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/xiao4_72_)
+[![LinkedIn Badge](https://img.shields.io/badge/-Davin%20Gahisan-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davin-gahisan-016b77390/)
+[![X Badge](https://img.shields.io/badge/-@Davin_SgM-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://x.com/Davin_SgM)
+[![WhatsApp Badge](https://img.shields.io/badge/-+62_882_1022_89177-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/62882102289177)
+[![Profile Views](https://komarev.com/ghpvc/?username=DavinGM&color=blue&label=Profile%20Views)](https://github.com/DavinGM/DavinGM)
+[![GitHub Followers](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/DavinGM)
 
 
 
