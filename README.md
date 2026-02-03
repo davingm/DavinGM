@@ -53,5 +53,5 @@
 - Portofolio : [davingm.com](https://davingm.com)
 - React Pixel : [react.davingm.com](https://react.davingm.com)
 
-# Understand Me Better
+### Understand Me Better? Sponsor me for the better
 
