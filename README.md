@@ -43,7 +43,8 @@
 
 ## My Site For you Explore
 
-- Portofolio : [davingm.com](https://davingm.com)
+- site : [davingm.com](https://davingm.com)
+- blog : [davingm.com](https://blog.davingm.com) 
 
 ### Understand Me Better? Sponsor me for the better
 
