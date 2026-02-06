@@ -44,7 +44,7 @@
 ## My Site For you Explore
 
 - site : [davingm.com](https://davingm.com)
-- blog : [davingm.com](https://blog.davingm.com) 
+- blog : [blog.davingm.com](https://blog.davingm.com) 
 
 ### Understand Me Better? Sponsor me for the better
 
