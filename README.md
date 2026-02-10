@@ -33,7 +33,6 @@
 [![Mail Badge](https://img.shields.io/badge/-davin.gm.etc@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:davin.gm.etc@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@xiao4_72__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/xiao4_72_)
 [![LinkedIn Badge](https://img.shields.io/badge/-Davin%20Gahisan-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davin-gahisan-016b77390/)
-[![X Badge](https://img.shields.io/badge/-@Davin_SgM-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://x.com/Davin_SgM)
 [![Profile Views](https://komarev.com/ghpvc/?username=DavinGM&color=blue&label=Profile%20Views)](https://github.com/DavinGM/DavinGM)
 [![GitHub Followers](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/DavinGM)
 
