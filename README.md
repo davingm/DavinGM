@@ -38,10 +38,5 @@
 
 
 
-
-## My Site For you Explore
-
-- site : [davingm.com](https://davingm.com)
-
-### Understand Me Better? Sponsor me for the better
+### If you find my work useful, consider sponsoring me.
 
