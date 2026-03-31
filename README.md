@@ -3,11 +3,9 @@
 <img align="right" height="250" width="400" alt="GIF" src="img/giphy.gif"/>
 
 <p>我是 Davin Gahisan Mustafid (Davin GM)，一名来自印度尼西亚万隆的独立开发者。我专注于前端工程，并始终紧跟 Vue.js 生态系统的现代技术前沿。期待与你一起将那些疯狂的想法变为现实。</p>
-
-<h3>技术栈与工具</h3>
-<p>
-
 <h3>联系我进行合作</h3>
+<br>
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=davingm&count_private=false&show_icons=true&hide_border=true&icon_color=586069&title_color=191970">
 
 [![Mail Badge](https://img.shields.io/badge/-davin@nlfts.dev-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:davin@nlfts.dev)
 [![Instagram Badge](https://img.shields.io/badge/-@davingm__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/davingm_)
