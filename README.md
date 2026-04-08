@@ -13,8 +13,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/DavinGM)
 
 - Studio : https://studio.davingm.com
-- Company : https://nlfts.dev
-
 <br><br>
   
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
