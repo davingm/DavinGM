@@ -18,6 +18,9 @@
   
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
 
+
+<img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=davingm" alt="yixiaojiu's Github Stats"/>
+
 ---
 
 ### 如果你觉得我的工作有所帮助，欢迎赞助我。
