@@ -14,6 +14,7 @@
 
 - Studio : https://studio.davingm.com
 - Kina : https://kin.davingm.com
+- hosted : https://rust.davingm.net
 <br><br>
   
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
