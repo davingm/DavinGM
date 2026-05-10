@@ -9,8 +9,8 @@
 [![Mail Badge](https://img.shields.io/badge/-davin@nlfts.dev-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:davin@nlfts.dev)
 [![Instagram Badge](https://img.shields.io/badge/-@davingm__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/davingm_)
 [![LinkedIn Badge](https://img.shields.io/badge/-Davin%20Gahisan-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davin-gahisan-016b77390/)
-[![Profile Views](https://komarev.com/ghpvc/?username=DavinGM&color=blue&label=Profile%20Views)](https://github.com/DavinGM/DavinGM)
-[![GitHub Followers](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/DavinGM)
+[![Profile Views](https://komarev.com/ghpvc/?username=davingm&color=blue&label=Profile%20Views)](https://github.com/davingm/DavinGM)
+[![GitHub Followers](https://img.shields.io/github/followers/davingm?label=GitHub%20Followers)](https://github.com/davingm)
 
 - Studio : https://studio.davingm.com
 - Kina : https://kin.davingm.com
