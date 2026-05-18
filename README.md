@@ -20,4 +20,4 @@
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
 ---
 
-### 如果你觉得我的工作有所帮助，欢迎赞助我。 Never Say Never
+### 如果你觉得我的工作有所帮助，欢迎赞助我。 Zh-cn
