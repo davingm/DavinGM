@@ -19,7 +19,7 @@
   
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
 
-<img alt="ban" src="img/banner.jpeg"/>
+<img alt="ban" src="img/banner.jpg"/>
 ---
 
 ### 如果你觉得我的工作有所帮助，欢迎赞助我。 Zh-cn
